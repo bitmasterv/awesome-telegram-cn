@@ -20,6 +20,7 @@
 * [@nosticker_bot](https://t.me/nosticker_bot) - 删除发布到该组的任何贴纸
 * [@daysandbox_bot](https://t.me/daysandbox_bot) - 删除最近24小时内加入群组的用户的链接组合帖子
 * [@m00dbot](https://t.me/m00dbot) - 开源机器人，用于焦虑和抑郁的自我测试。
+* [@cybercollectorbot](https://t.me/cybercollectorbot) - 免费下载 TikTok（无水印）、Instagram Reels/Stories、YouTube+Shorts、X/Twitter、Facebook 视频。无需注册，无广告。[官网](https://cybercollector.hitkey.io)
  
 
 ### 内联（inline）机器人
