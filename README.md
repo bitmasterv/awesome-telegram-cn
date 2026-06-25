@@ -127,6 +127,7 @@
 
 [https://core.telegram.org/bots/samples](https://core.telegram.org/bots/samples)
 
+- [CoinPing](https://t.me/CoinPingAlertBot) — 加密货币价格提醒 Bot
 ## 工具
 
  * [botan](http://botan.io/) – TTelegram机器人最先进的分析工具
