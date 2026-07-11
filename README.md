@@ -20,6 +20,7 @@
 * [@nosticker_bot](https://t.me/nosticker_bot) - 删除发布到该组的任何贴纸
 * [@daysandbox_bot](https://t.me/daysandbox_bot) - 删除最近24小时内加入群组的用户的链接组合帖子
 * [@m00dbot](https://t.me/m00dbot) - 开源机器人，用于焦虑和抑郁的自我测试。
+* [@my_weight_goal_bot](https://t.me/my_weight_goal_bot) - 在群聊里设定每周体重目标，用照片打卡并查看进度图、提醒和 53 周趣味成就；自然支持中文等 9 种语言（[Apache-2.0 开源代码](https://github.com/IgorShadurin/weight-telegram-bot)）。
  
 
 ### 内联（inline）机器人
@@ -182,4 +183,3 @@
 [区块链的Telegram运营课](https://cloud.tencent.com/developer/news/227991)
 [Telegram Client 开发](https://www.jianshu.com/p/0f61dd28d969)
 [Telegram资源整理开发](https://www.jianshu.com/p/d2d4e92bfb04)
-
